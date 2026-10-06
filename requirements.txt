@@ -1,0 +1,7 @@
+streamlit
+google-genai
+trimesh
+manifold3d
+numpy
+Pillow
+python-dotenv
